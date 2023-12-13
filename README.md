@@ -9,7 +9,7 @@ PVS-Studio is a tool for detecting bugs and security weaknesses in the source co
 ## C and C++ analyzer
 
 Installation and update commands:
-
+LALALA
 ```
 $ brew install viva64/pvs-studio/pvs-studio
 $ brew upgrade pvs-studio
